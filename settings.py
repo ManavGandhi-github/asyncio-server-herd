@@ -1,6 +1,6 @@
 # settings.py
 
-API_KEY = 'AIzaSyAfZQXTcM3A9sfytozJftI9ZSk00jmd9jE'
+API_KEY = 'AIzaSyAfZQXTcM3A9sfytozJftI9ZSk0--------'
 
 PORTS = {
     'Bailey': 10000,
